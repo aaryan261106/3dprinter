@@ -5,37 +5,37 @@ const testimonials = [
   {
     text: "The quality of these 3D prints is absolutely incredible. The Darth Vader bust looks like it came straight from a movie prop studio!",
     image: "https://randomuser.me/api/portraits/men/1.jpg",
-    name: "Alex Rivera",
+    name: "Aman Rathod",
     role: "Star Wars Collector",
   },
   {
     text: "My piston lamp is the centerpiece of my office. Everyone asks where I got it. Absolutely stunning craftsmanship.",
     image: "https://randomuser.me/api/portraits/women/2.jpg",
-    name: "Sarah Chen",
+    name: "Hemant Panhal",
     role: "Interior Designer",
   },
   {
     text: "Fast shipping and the packaging was perfect. The Minecraft ore lamp exceeded my expectations!",
     image: "https://randomuser.me/api/portraits/men/3.jpg",
-    name: "Marcus Johnson",
+    name: "Mohank Lad",
     role: "Gaming Enthusiast",
   },
   {
     text: "I've bought from many 3D print shops, but the detail and finish quality here is unmatched. Will definitely order again!",
     image: "https://randomuser.me/api/portraits/women/4.jpg",
-    name: "Emily Watson",
+    name: "Vaishnavi Sharma",
     role: "Model Kit Builder",
   },
   {
     text: "The brake caliper lamp with the glowing rotor effect is mind-blowing. Perfect gift for any car enthusiast.",
     image: "https://randomuser.me/api/portraits/men/5.jpg",
-    name: "David Park",
+    name: "Jenil Kushwaha",
     role: "Automotive Engineer",
   },
   {
     text: "Customer service was amazing. They helped me choose the perfect piece for my collection. Highly recommend!",
     image: "https://randomuser.me/api/portraits/women/6.jpg",
-    name: "Lisa Martinez",
+    name: "Divya Aher",
     role: "Art Collector",
   },
 ];

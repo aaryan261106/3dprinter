@@ -70,7 +70,7 @@ export function Footer() {
         {/* Bottom Section */}
         <div className="mt-20 flex flex-col gap-2 items-center justify-center md:flex-row md:items-center md:justify-between">
           <p className="text-sm text-muted-foreground text-center md:text-left">
-            © {new Date().getFullYear()} PrintForge. All rights reserved.
+            © {new Date().getFullYear()} PICKAXE.LAB. All rights reserved.
           </p>
           <p className="text-sm text-muted-foreground">
             Crafted with passion for collectors
@@ -83,7 +83,7 @@ export function Footer() {
         className="bg-gradient-to-b from-foreground/10 via-foreground/5 to-transparent bg-clip-text text-transparent leading-none absolute left-1/2 -translate-x-1/2 bottom-32 font-display font-extrabold tracking-tighter pointer-events-none select-none text-center"
         style={{ fontSize: 'clamp(3rem, 12vw, 10rem)', maxWidth: '95vw' }}
       >
-        PRINTFORGE
+        PICKAXE.LAB
       </div>
 
       {/* Bottom Logo */}

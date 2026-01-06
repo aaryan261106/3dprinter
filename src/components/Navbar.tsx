@@ -26,7 +26,7 @@ export function Navbar() {
               <Box className="w-6 h-6 text-primary-foreground" />
             </div>
             <span className="font-display text-xl font-bold text-gradient hidden sm:block">
-              PrintForge
+              PICKAXE.LAB
             </span>
           </Link>
 
